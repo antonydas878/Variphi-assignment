@@ -174,7 +174,7 @@ http://127.0.0.1:8000/search?q=person running
 
  🎥 Demo Video
 
-👉 []
+👉 [https://drive.google.com/file/d/1RocTx0dF_0rjAKRUvZosiBpSuhB1EgS7/view?usp=drivesdk]
 
 ---
 
